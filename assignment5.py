@@ -26,8 +26,4 @@ user_profile = {
     "tips": False,
 }
 
-<<<<<<< HEAD
 print(user_profile)
-=======
-print(user_profile)
->>>>>>> f29cb8848d64d054a662afdfcf2b418de8a27b95
